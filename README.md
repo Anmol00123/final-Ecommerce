@@ -1,5 +1,5 @@
 # FakeShop
-![123](123.png)
+![123](123.PNG)
 
 A React Js e-commerce website. It includes two pages, the homepage to display the list of products and page 2 to display the details of the selected product.
 
